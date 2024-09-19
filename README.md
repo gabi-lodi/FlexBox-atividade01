@@ -24,5 +24,8 @@
   Altere a propriedade flex-direction modificando o valor para column (era "row");
     <br>
   <img src="https://cdn.discordapp.com/attachments/1258475263948361831/1286081842671390762/column_flex_direction.png?ex=66ec9c8d&is=66eb4b0d&hm=a04899b87324a4eee2c84e054970e067ef67b8b04a994d503b8e3ae8ee7bc4a4&">
+
+  Desafio:
+  <img src="https://cdn.discordapp.com/attachments/1258475263948361831/1286312326907297843/Captura_de_Tela_2024-09-19_as_10.05.46.png?ex=66ed7335&is=66ec21b5&hm=86f0d00303b1af6e0ae99af03facb6e278563d7d001c76c2de3c23db254f0b5e&">
   
 </body>
